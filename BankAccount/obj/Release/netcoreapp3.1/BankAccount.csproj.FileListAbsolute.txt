@@ -1,0 +1,13 @@
+C:\Users\saker\source\repos\BankAccount\BankAccount\bin\Release\netcoreapp3.1\BankAccount.exe
+C:\Users\saker\source\repos\BankAccount\BankAccount\bin\Release\netcoreapp3.1\BankAccount.deps.json
+C:\Users\saker\source\repos\BankAccount\BankAccount\bin\Release\netcoreapp3.1\BankAccount.runtimeconfig.json
+C:\Users\saker\source\repos\BankAccount\BankAccount\bin\Release\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+C:\Users\saker\source\repos\BankAccount\BankAccount\bin\Release\netcoreapp3.1\BankAccount.dll
+C:\Users\saker\source\repos\BankAccount\BankAccount\bin\Release\netcoreapp3.1\BankAccount.pdb
+C:\Users\saker\source\repos\BankAccount\BankAccount\obj\Release\netcoreapp3.1\BankAccount.csprojAssemblyReference.cache
+C:\Users\saker\source\repos\BankAccount\BankAccount\obj\Release\netcoreapp3.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\saker\source\repos\BankAccount\BankAccount\obj\Release\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\saker\source\repos\BankAccount\BankAccount\obj\Release\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+C:\Users\saker\source\repos\BankAccount\BankAccount\obj\Release\netcoreapp3.1\BankAccount.dll
+C:\Users\saker\source\repos\BankAccount\BankAccount\obj\Release\netcoreapp3.1\BankAccount.pdb
+C:\Users\saker\source\repos\BankAccount\BankAccount\obj\Release\netcoreapp3.1\BankAccount.genruntimeconfig.cache
